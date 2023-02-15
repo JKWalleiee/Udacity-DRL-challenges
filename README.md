@@ -8,9 +8,9 @@
 ### Introduction
 
 In this repository you will find the solution to the three challenges of the Udacity DRL Nanodegree:
-- Navigation with Pixels.
-- Crawler
-- ![Soccer](DRL-Soccer).
+- Navigation with Pixels (IN PROGRESS...).
+- Crawler (IN PROGRESS...).
+- ![Soccer](DRL-Soccer) (IN PROGRESS...).
 
 ### Getting Started
 
